@@ -1,0 +1,168 @@
+body{
+	margin: 0em 0em;
+}
+#main-container{
+	width: 64em;
+	background-color: black;
+	font-family: sans-serif;
+	margin: 0em auto;
+}
+#main-container p{
+	color: lightgray;
+	font-size: .8em;
+	margin-top: .1em;
+	line-height: 1.25em;
+}
+#main-container h2{
+	color: orange;
+	font-size: 1em;
+	margin-bottom: .15em;
+	margin-top: 0em;
+}
+#header{
+	margin: .25em 1.5em 1em 1.5em;
+}
+#call-us,
+#logo{
+	display: inline-block;
+}
+#logo{
+	padding-left: 2em;
+}
+#call-us{
+	vertical-align: top;
+	padding-left: 34em;
+}
+#call-us h3{
+	color: lightgray;
+	font-size: 1em;
+	padding-top: 1em;
+}
+#navigation{
+	padding-top: .3em;
+	padding-bottom: .3em;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	background-color: #202121;
+}
+#navigation ul{
+	vertical-align: top;
+	list-style-type: none;
+}
+#navigation ul li{
+	display: inline-block;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-left: .15em solid slategray;
+}
+#navigation ul li a{
+	color: lightgray;
+	text-decoration: none;
+}
+#navigation .first-li a{
+	color: white;
+}
+#navigation .first-li{
+	border-left: none;
+}
+#slider{
+	margin-left: 1.5em;
+	margin-bottom: 0em;
+	border-bottom: .15em solid lightgray;
+}
+#points{
+	background-color: #202121;
+	margin: 0em 1.5em;
+	/*margin-left: 1.5em;
+	margin-right: 1.5em;*/
+	padding: 1em 0em;
+}
+#points div{
+	display: inline-block;
+	width: 13.19em;
+	margin-left: 1.5em;
+}
+#points div img{
+	display: inline-block;
+	vertical-align: top;
+}
+#points .points-text{
+	display: inline-block;
+	width: 8em;
+	vertical-align: top;
+}
+.points-text h2{
+	color: orange;
+	font-size: 1em;
+	margin-bottom: .15em;
+	margin-top: 0em;
+}
+.points-text p{
+	color: lightgray;
+	font-size: .8em;
+	margin-top: .1em;
+	line-height: 1.15em;
+}
+#buy-now div,
+#buy-now button{
+	display: inline-block;
+}
+#buy-now div{
+	width: 37em;
+	/*padding-left: 3.5em;*/
+	padding: 1em 0em 1em 3.5em;
+}
+#buy-now div h1{
+	color: white;
+	font-size: 1.5em;
+	margin-bottom: .2em;
+}
+#buy-now button{
+	padding: 1em 2.75em;
+	background-color: orange;
+	color: white;
+	border-radius: .3em;
+	border-color: orange;
+	margin-left: 16em;
+	vertical-align: top;
+	margin-top: 3.2em;
+}
+#portfolio{
+	background-color: #202121;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+}
+#portfolio #port-heading h3{
+	color: white;
+	font-size: 1em;
+	display: inline-block;
+	padding-left: 1.5em;
+}
+#portfolio #port-heading a{
+	text-decoration: none;
+	color: orange;
+	font-size: .8em;
+	margin-left: 58em;
+}
+#portfolio .portfolio-pic{
+	display: inline-block;
+	width: 13.19em;
+	margin-left: 1.5em;
+}
+#portfolio .portfolio-pic img{
+	border: .15em solid gray;
+}
+.portfolio-pic h4{
+	color: orange;
+	font-size: .95em;
+	padding-bottom: .15em;
+}
+#btt{
+	text-align: right;
+	margin-right: 1.7em;
+}
+#btt a{
+	text-decoration: none;
+	color: grey;
+	font-size: .7em;
+}
